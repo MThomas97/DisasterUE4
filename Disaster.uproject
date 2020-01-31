@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{DDF42F23-4281-660A-F1CE-2E9BBD0EEF2A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Disaster",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
