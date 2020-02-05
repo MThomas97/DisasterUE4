@@ -1,8 +1,6 @@
 # Disaster
 > Super fast action packed party bonanza! Can you repair your house before your frenemies? 
 
-[![Build Status][travis-image]][travis-url]
-
 ![](overview.png)
 
 ## Unreal Version
